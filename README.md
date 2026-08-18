@@ -4,7 +4,7 @@
 
 This project presents a fundamental financial and investment analysis of BlackRock, Inc. (NYSE: BLK) using FY2023–FY2025 financial data.
 
-The analysis evaluates BlackRock's financial performance, profitability, assets under management (AUM), cash flows, balance-sheet trends, and valuation relative to selected asset-management peers. The project also incorporates sensitivity analysis to examine how different valuation assumptions affect implied equity value.
+The analysis evaluates BlackRock's financial performance, profitability, Assets Under Management (AUM), cash flows, balance-sheet trends, and valuation relative to selected asset-management peers. The project also incorporates sensitivity analysis to examine how different valuation assumptions affect implied equity value.
 
 The analysis was developed in Microsoft Excel using BlackRock's annual reports, SEC filings, investor materials, and supporting market data.
 
@@ -34,7 +34,7 @@ Assets Under Management increased approximately **21.6%**, reaching **$14.0 tril
 
 ### Profitability Diverged from Top-Line Growth
 
-Despite strong revenue and AUM growth, GAAP operating income declined approximately **7.0%** in FY2025.
+Despite strong revenue and AUM growth, GAAP operating income declined approximately **7.0% in FY2025**.
 
 GAAP operating margin decreased from **37.1% in FY2024 to 29.1% in FY2025**, a contraction of approximately **802 basis points**.
 
@@ -48,13 +48,15 @@ Investing cash outflows increased substantially, reflecting acquisition-related 
 
 ### Relative Valuation
 
-BlackRock was benchmarked against:
+BlackRock was benchmarked against selected asset-management peers:
 
 - T. Rowe Price
 - Franklin Resources
 - Invesco
 
-Using adjusted P/E and P/B multiples, the analysis identified a substantial valuation premium for BlackRock relative to the selected peer group.
+Using adjusted P/E and P/B multiples, BlackRock traded at approximately a **60.1% P/E premium** and **46.2% P/B premium** relative to selected-peer medians.
+
+The valuation premium suggests that the market embeds stronger expectations regarding BlackRock's scale, growth prospects, earnings potential, and competitive position relative to the selected peer group.
 
 ### Valuation Sensitivity
 
@@ -68,6 +70,30 @@ The sensitivity analysis illustrates how changes in earnings multiples and valua
 
 ---
 
+## Project Preview
+
+The Excel workbook includes an executive dashboard, financial statement analysis, peer benchmarking, relative valuation, and sensitivity analysis.
+
+### Executive Dashboard
+
+<!-- Upload your dashboard screenshot to an "images" folder and uncomment the line below -->
+
+<!-- ![BlackRock Executive Dashboard](images/blackrock-dashboard.png) -->
+
+### Relative Valuation
+
+<!-- Upload your relative valuation screenshot and uncomment the line below -->
+
+<!-- ![BlackRock Relative Valuation](images/relative-valuation.png) -->
+
+### P/E Sensitivity Analysis
+
+<!-- Upload your sensitivity analysis screenshot and uncomment the line below -->
+
+<!-- ![BlackRock P/E Sensitivity Analysis](images/pe-sensitivity.png) -->
+
+---
+
 ## Analysis Included
 
 The Excel workbook contains analysis covering:
@@ -78,6 +104,7 @@ The Excel workbook contains analysis covering:
 - Financial Ratios
 - Assets Under Management (AUM)
 - Profitability and Margin Trends
+- Liquidity and Leverage Analysis
 - Peer Benchmarking
 - Relative Valuation
 - P/E Sensitivity Analysis
@@ -88,19 +115,24 @@ The Excel workbook contains analysis covering:
 
 ## Tools & Techniques
 
-**Tool**
+### Tool
+
 - Microsoft Excel
 
-**Financial Analysis**
+### Financial Analysis
+
 - Financial Statement Analysis
 - Ratio Analysis
 - Trend Analysis
 - Cash Flow Analysis
 - Profitability Analysis
+- Liquidity Analysis
+- Leverage Analysis
 - AUM Analysis
 - Year-over-Year Growth Analysis
 
-**Valuation**
+### Valuation
+
 - Relative Valuation
 - P/E Analysis
 - P/B Analysis
@@ -125,9 +157,9 @@ Detailed source references and hyperlinks are included in the workbook's **Sourc
 
 ## Project File
 
-`BlackRock_Financial_Analysis_Valuation.xlsx`
+📊 **[View / Download the BlackRock Financial Analysis & Valuation Workbook](./BlackRock_Financial_Analysis_Valuation.xlsx)**
 
-The workbook contains the complete financial analysis, valuation framework, supporting calculations, and dashboard.
+The workbook contains the complete financial analysis, valuation framework, supporting calculations, source references, and executive dashboard.
 
 ---
 
@@ -138,7 +170,7 @@ The workbook contains the complete financial analysis, valuation framework, supp
 M.S. Finance — Investment & Quantitative Analysis  
 University of Massachusetts Boston
 
-Areas of interest include investment research, financial analysis, equity valuation, portfolio analysis, and data-driven investment decision-making.
+**Areas of Interest:** Investment Research | Equity Valuation | Financial Analysis | Portfolio Analysis
 
 ---
 
