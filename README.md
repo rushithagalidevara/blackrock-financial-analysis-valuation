@@ -78,13 +78,13 @@ The sensitivity analysis illustrates how changes in earnings multiples and valua
 
 The executive dashboard summarizes BlackRock's FY2023–FY2025 financial performance, including revenue, net income, diluted EPS, AUM growth, profitability trends, and key financial takeaways.
 
-![BlackRock Executive Dashboard](images/blackrock-dashboard.png)
+![BlackRock Executive Dashboard](BlackRock-Dashboard.png)
 
 ### Relative Valuation & Sensitivity Analysis
 
 The valuation analysis compares BlackRock with selected asset-management peers using adjusted P/E and P/B multiples and evaluates implied share prices across a range of P/E assumptions.
 
-![BlackRock Relative Valuation and Sensitivity Analysis](images/blackrock-valuation-analysis.png)
+![BlackRock Relative Valuation and Sensitivity Analysis](blackrock-valuation-analysis.png)
 
 ---
 
