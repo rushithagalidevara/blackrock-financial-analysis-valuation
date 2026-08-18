@@ -84,7 +84,7 @@ The executive dashboard summarizes BlackRock's FY2023–FY2025 financial perform
 
 The valuation analysis compares BlackRock with selected asset-management peers using adjusted P/E and P/B multiples and evaluates implied share prices across a range of P/E assumptions.
 
-![BlackRock Relative Valuation and Sensitivity Analysis](blackrock-valuation-analysis.png)
+![BlackRock Relative Valuation and Sensitivity Analysis](blackrock-valuation-analysis..png)
 
 ---
 
