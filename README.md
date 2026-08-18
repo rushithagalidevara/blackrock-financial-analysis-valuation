@@ -1,2 +1,147 @@
-# blackrock-financial-analysis-valuation
-Fundamental financial analysis and relative valuation of BlackRock (NYSE: BLK), including financial statement analysis, peer benchmarking, and sensitivity analysis.
+# BlackRock (NYSE: BLK) — Financial Analysis & Relative Valuation
+
+## Project Overview
+
+This project presents a fundamental financial and investment analysis of BlackRock, Inc. (NYSE: BLK) using FY2023–FY2025 financial data.
+
+The analysis evaluates BlackRock's financial performance, profitability, assets under management (AUM), cash flows, balance-sheet trends, and valuation relative to selected asset-management peers. The project also incorporates sensitivity analysis to examine how different valuation assumptions affect implied equity value.
+
+The analysis was developed in Microsoft Excel using BlackRock's annual reports, SEC filings, investor materials, and supporting market data.
+
+---
+
+## Objectives
+
+- Analyze BlackRock's FY2023–FY2025 financial performance
+- Evaluate revenue, profitability, margins, and earnings trends
+- Examine growth in Assets Under Management (AUM)
+- Analyze balance-sheet and cash-flow developments
+- Evaluate profitability, liquidity, leverage, and efficiency ratios
+- Benchmark BlackRock against selected asset-management peers
+- Assess relative valuation using P/E and P/B multiples
+- Perform P/E sensitivity analysis across alternative valuation assumptions
+- Translate financial data into investment-oriented insights
+
+---
+
+## Key Findings
+
+### Strong Revenue and AUM Growth
+
+BlackRock generated approximately **$24.2 billion in revenue in FY2025**, representing an increase of **18.7% year-over-year**.
+
+Assets Under Management increased approximately **21.6%**, reaching **$14.0 trillion** at the end of FY2025.
+
+### Profitability Diverged from Top-Line Growth
+
+Despite strong revenue and AUM growth, GAAP operating income declined approximately **7.0%** in FY2025.
+
+GAAP operating margin decreased from **37.1% in FY2024 to 29.1% in FY2025**, a contraction of approximately **802 basis points**.
+
+This indicates that strong top-line growth did not translate proportionately into GAAP operating profitability during the period.
+
+### Cash Flow and Capital Deployment
+
+BlackRock generated approximately **$3.9 billion of operating cash flow in FY2025** while deploying significant capital toward acquisitions and strategic investments.
+
+Investing cash outflows increased substantially, reflecting acquisition-related payments and continued investment activity.
+
+### Relative Valuation
+
+BlackRock was benchmarked against:
+
+- T. Rowe Price
+- Franklin Resources
+- Invesco
+
+Using adjusted P/E and P/B multiples, the analysis identified a substantial valuation premium for BlackRock relative to the selected peer group.
+
+### Valuation Sensitivity
+
+A **15.0x–25.0x P/E sensitivity analysis** was used to evaluate alternative valuation scenarios.
+
+The resulting analysis produced an implied valuation range of approximately:
+
+**$721–$1,202 per share**
+
+The sensitivity analysis illustrates how changes in earnings multiples and valuation expectations can materially affect implied equity value.
+
+---
+
+## Analysis Included
+
+The Excel workbook contains analysis covering:
+
+- Income Statement
+- Balance Sheet
+- Cash Flow Statement
+- Financial Ratios
+- Assets Under Management (AUM)
+- Profitability and Margin Trends
+- Peer Benchmarking
+- Relative Valuation
+- P/E Sensitivity Analysis
+- Executive Dashboard
+- Sources & References
+
+---
+
+## Tools & Techniques
+
+**Tool**
+- Microsoft Excel
+
+**Financial Analysis**
+- Financial Statement Analysis
+- Ratio Analysis
+- Trend Analysis
+- Cash Flow Analysis
+- Profitability Analysis
+- AUM Analysis
+- Year-over-Year Growth Analysis
+
+**Valuation**
+- Relative Valuation
+- P/E Analysis
+- P/B Analysis
+- Peer Benchmarking
+- Sensitivity Analysis
+
+---
+
+## Data Sources
+
+Primary and supporting sources include:
+
+- BlackRock Annual Reports
+- BlackRock Investor Relations
+- SEC Filings / Form 10-K
+- Yahoo Finance
+- Macrotrends
+
+Detailed source references and hyperlinks are included in the workbook's **Sources & References** worksheet.
+
+---
+
+## Project File
+
+`BlackRock_Financial_Analysis_Valuation.xlsx`
+
+The workbook contains the complete financial analysis, valuation framework, supporting calculations, and dashboard.
+
+---
+
+## About the Author
+
+**Rushitha A. S. Galidevara**
+
+M.S. Finance — Investment & Quantitative Analysis  
+University of Massachusetts Boston
+
+Areas of interest include investment research, financial analysis, equity valuation, portfolio analysis, and data-driven investment decision-making.
+
+---
+
+## Disclaimer
+
+This project was developed independently for educational and portfolio purposes. It is not affiliated with or endorsed by BlackRock, Inc. The analysis is based on publicly available information and should not be interpreted as investment advice.
